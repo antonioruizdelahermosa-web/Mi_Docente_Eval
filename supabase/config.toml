@@ -1,0 +1,10 @@
+project_id = "lfkhbezozvoiywgvndjm"
+
+[functions.evaluate-area]
+verify_jwt = false
+
+[functions.generate-student-reports]
+verify_jwt = false
+
+[functions.notify-login]
+verify_jwt = false

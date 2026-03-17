@@ -1,0 +1,1 @@
+ALTER TABLE public.teacher_data ADD COLUMN IF NOT EXISTS logo text NOT NULL DEFAULT '';
